@@ -10,11 +10,11 @@ Note: If the image files are not yet in the repository the links will appear bro
 
 | Cover | Title | Caption |
 |---|---|---|
-| ![Calle Oscura](/assets/releases/INSTRUMENTALS/calle_oscura.jpg "Calle Oscura — Two men exchange a cigarette on a rainy rooftop") | Calle Oscura | Two men exchange a cigarette on a rainy rooftop at night; moody rain, smoke, and cinematic lighting. |
-| ![Cara Tapada](/assets/releases/INSTRUMENTALS/cara_tapada.jpg "Cara Tapada — Masked figure in a wet alley") | Cara Tapada | Masked figure standing in a dim, wet alley with red and amber streetlights; clandestine mood. |
-| ![Liberi Tutti](/assets/releases/INSTRUMENTALS/liberi_tutti.jpg "Liberi Tutti — shattered glass bullet-hole graphic") | Liberi Tutti | Minimal black cover with a radial shattered-glass center and the title across the middle. |
-| ![No Soy Un Ladrón](/assets/releases/INSTRUMENTALS/no_soy_un_ladron.jpg "No Soy Un Ladrón — masked person by motorcycle") | No Soy Un Ladrón | Masked person beside a motorcycle in an industrial lot at dusk, covering their face; teal and amber palette. |
-| ![INSTRUMENTALS](/assets/releases/INSTRUMENTALS/instrumentals.jpg "INSTRUMENTALS — masked figure smoking beside motorcycle") | INSTRUMENTALS | Dark, cinematic instrumental cover: masked figure exhaling smoke beside a motorcycle; centered title 'INSTRUMENTALS'. |
+| ![Calle Oscura](<img width="1024" height="1024" alt="art_cl40_calle" src="https://github.com/user-attachments/assets/4394c9d0-b344-46f0-a9f4-039e5426704b" />) | Calle Oscura | Two men exchange a cigarette on a rainy rooftop at night; moody rain, smoke, and cinematic lighting. |
+| ![Cara Tapada](<img width="1024" height="1024" alt="art_cl40_cara_tapada" src="https://github.com/user-attachments/assets/53d65b69-5c31-4c38-a36b-a248e6542bce" />) | Cara Tapada | Masked figure standing in a dim, wet alley with red and amber streetlights; clandestine mood. |
+| ![Liberi Tutti](<img width="1024" height="1024" alt="art_liberi_tutti" src="https://github.com/user-attachments/assets/de5c3180-de36-441d-aef2-e289c60f3acd" />) | Liberi Tutti | Minimal black cover with a radial shattered-glass center and the title across the middle. |
+| ![No Soy Un Ladrón](<img width="1024" height="1024" alt="artwork_no_soy_un_ladron_pro" src="https://github.com/user-attachments/assets/188e3b68-a31f-486c-98c5-2b8385929581" />) | No Soy Un Ladrón | Masked person beside a motorcycle in an industrial lot at dusk, covering their face; teal and amber palette. |
+| ![INSTRUMENTALS](<img width="1024" height="1024" alt="art_instyrumentals_cl40_prov2" src="https://github.com/user-attachments/assets/397a3a43-db91-41ac-8a8e-364dbfff2f04" />) | INSTRUMENTALS | Dark, cinematic instrumental cover: masked figure exhaling smoke beside a motorcycle; centered title 'INSTRUMENTALS'. |
 
 ### File paths (what will be committed)
 - /assets/releases/INSTRUMENTALS/calle_oscura.jpg
