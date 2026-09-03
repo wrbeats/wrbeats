@@ -83,24 +83,25 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 ## 🎼 Official Catalog
 
 ### Albums & EPs
-| Title | Format | Label | Studio | Distribution | Publisher | Songwriter | Owner |
-|-------|--------|-------|---------------|
-| **LA CALLE NO CALLA II** | Album | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **URBANA LEYENDA** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **Luz y Sombra** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **Eye For An Eye** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **DECODING THE SYSTEM** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **CARA TAPADA** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **Calle Oscura** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **Liberi Tutti** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **No Soy Un Ladrón** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
-| **EURO STREET FILES** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets |
+| Title | Format | Label | Studio | Distribution | Publisher | Songwriter | Owner |   
+|-------|--------|-------|---------------|   
+| **LA CALLE NO CALLA II** | Album | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |   
+| **URBANA LEYENDA** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |
+| **Luz y Sombra** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |
+| **Eye For An Eye** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |   
+| **DECODING THE SYSTEM** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |   
+| **CARA TAPADA** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |
+| **Calle Oscura** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |
+| **Liberi Tutti** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |
+| **No Soy Un Ladrón** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |   
+| **EURO STREET FILES** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World & WR Bets |   
 
-## Radio & Podcast
+## 🎼 Official Catalog 2
 
-| Title | Format | Label | Studio | Creators | Publisher | Songwriter | Owner | Podcast | Feed |
-|-------|--------|-------|---------------|
-| **Samir Libari Podcast** | Radio | CL40 World | WR Beats | Spotify Creators | Chico Loco 40 | Samir Libari | CL40 World / WR Bets | Buzzsprout | RSS |
+### Radio & Podcast   
+| Title | Format | Label | Studio | Creators | Publisher | Songwriter | Owner | Podcast | Feed |   
+|-------|--------|-------|---------------|   
+| **Samir Libari Podcast** | Radio | CL40 World | WR Beats | Spotify Creators | Chico Loco 40 | Samir Libari | CL40 World / WR Bets | Buzzsprout | RSS |      
 
 ---
 
