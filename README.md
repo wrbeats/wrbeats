@@ -72,7 +72,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | Metric | Value |
 |--------|-------|
 | **Total Global Reach** | +134 Billion Impressions |
-| **Annual Velocity** | 50 Billion Impressions/Year |
+| **Annual Velocity** | 100 Billion Impressions/Year |
 | **Countries Covered** | +210 Countries |
 | **Playlist Reach** | +180k Listeners |
 | **Artist Rank Global** | #1,25M+ |
@@ -83,13 +83,21 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 ## 🎼 Official Catalog
 
 ### Albums & EPs
-| Title | Format | Label | Distribution |
+| Title | Format | Label | Studio | Distribution | Publisher | Songwriter | Owner
 |-------|--------|-------|---------------|
-| **LA CALLE NO CALLA II** | Studio Album | CL40 World | UnitedMasters |
-| **URBANA LEYENDA** | Studio EP | CL40 World | UnitedMasters |
-| **Eye For An Eye** | Single | CL40 World | UnitedMasters |
-| **DECODING THE SYSTEM** | Single | CL40 World | UnitedMasters |
-| **CARA TAPADA** | Single | CL40 World | UnitedMasters |
+| **LA CALLE NO CALLA II** | Album | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **URBANA LEYENDA** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **Luz y Sombra** | EP | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **Eye For An Eye** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **DECODING THE SYSTEM** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **CARA TAPADA** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **Calle Oscura** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **Liberi Tutti** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **No Soy Un Ladrón** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+| **EURO STREET FILES** | Single | CL40 World | WR Beats | Unitedmasters | Chico Loco 40 | Samir Libari | CL40 World / WR Bets
+|-------|--------|-------|---------------|
+| Title | Format | Label | Studio | Creators | Publisher | Songwriter | Owner | Podcast | Feed
+| **Samir Libari Podcast** | Radio | CL40 World | WR Beats | Spotify Creators | Chico Loco 40 | Samir Libari | CL40 World / WR Bets | Buzzsprout | RSS
 
 ---
 
@@ -112,7 +120,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 ✅ Artist Development & Management  
 ✅ Journalism & PR Operations  
 ✅ Digital Asset Management  
-✅ Rights Administration (ASCAP)  
+✅ Rights Administration (ASCAP) & Amnesty International  
 ✅ Technology & Development  
 
 ---
@@ -129,9 +137,9 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 ### Studio Partnerships
 - **Primary Label:** CL40 World
-- **Artist:** Chico Loco 40 (LB0025)
-- **Distribution Partner:** UnitedMasters
-- **Rights Administration:** ASCAP
+- **Artist:** Chico Loco 40 (Samir Libari)
+- **Distribution Partner:** (UnitedMasters)
+- **Rights Administration:** (ASCAP) (Amnesty International)
 
 ---
 
