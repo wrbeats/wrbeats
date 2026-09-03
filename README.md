@@ -1,3 +1,36 @@
+# 🌍 International — CL40 World & WR Beats
+
+<table>
+  <tr>
+    <td valign="top">
+
+### Global Highlights
+
+- **Total Global Reach:** +134 Billion Impressions
+- **Annual Velocity:** 100 Billion Impressions / Year
+- **Countries Covered:** +210
+- **Playlist Reach:** +180k Listeners
+- **Artist Rank Global:** #1,250,000+
+
+</td>
+    <td valign="top">
+
+### Official Catalog — Preview
+
+| Title | Format |
+|-------|--------|
+| **LA CALLE NO CALLA II** | Album |
+| **URBANA LEYENDA** | EP |
+| **Eye For An Eye** | Single |
+| **DECODING THE SYSTEM** | Single |
+| **CARA TAPADA** | Single |
+
+</td>
+  </tr>
+</table>
+
+---
+
 # 🜏 WR Beats — Official Music Production Studio & Label
 ## Partnered with Chico Loco 40 / CL40 World
 
