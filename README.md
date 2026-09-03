@@ -130,6 +130,14 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | No Soy Un Ladrón | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 | EURO STREET FILES | Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 
+
+### Release Details (UPC & Catalog)
+
+| Title | UPC | Catalog | Artist | Release Date | Format |
+|---|---|---|---|---:|---|
+| EURO STREET FILES | 199891793891 | CAT1682188 | Chico Loco 40 | 2026-04-10 | Album |
+| Majara (Freestyle) | 199502870850 | CAT1535965 | Chico Loco 40 | 2025-11-09 | Single (Freestyle) |
+
 ---
 
 ## 🎼 Official Catalog 2
