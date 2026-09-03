@@ -129,7 +129,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | Liberi Tutti | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 | No Soy Un Ladrón | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 | EURO STREET FILES | Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-
+| Majara (Freestyle) | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 |  Samir Libari | CL40 World & WR Beats 
 
 ### Release Details (UPC & Catalog)
 
