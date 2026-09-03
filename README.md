@@ -117,18 +117,18 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 ### Albums & EPs
 
-| Title | Format | Label | Distribution |
-|---|---|---|---|
-| LA CALLE NO CALLA II | Album | CL40 World | UnitedMasters |
-| URBANA LEYENDA | EP | CL40 World | UnitedMasters |
-| Luz y Sombra | EP | CL40 World | UnitedMasters |
-| Eye For An Eye | Single | CL40 World | UnitedMasters |
-| DECODING THE SYSTEM | Single | CL40 World | UnitedMasters |
-| CARA TAPADA | Single | CL40 World | UnitedMasters |
-| Calle Oscura | Single | CL40 World | UnitedMasters |
-| Liberi Tutti | Single | CL40 World | UnitedMasters |
-| No Soy Un Ladrón | Single | CL40 World | UnitedMasters |
-| EURO STREET FILES | Single | CL40 World | UnitedMasters |
+| Title | Format | Label | Studio | Distribution | Publisher | Songwriter | Owner |
+|---|---|---|---|---|---|---|---|
+| LA CALLE NO CALLA II | Studio Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| URBANA LEYENDA | Studio EP | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| Luz y Sombra | EP | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| Eye For An Eye | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| DECODING THE SYSTEM | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| CARA TAPADA | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| Calle Oscura | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| Liberi Tutti | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| No Soy Un Ladrón | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+| EURO STREET FILES | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 
 ---
 
