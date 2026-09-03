@@ -129,14 +129,53 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 | Liberi Tutti | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 | No Soy Un Ladrón | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
 | EURO STREET FILES | Album | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
-| Majara (Freestyle) | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 |  Samir Libari | CL40 World & WR Beats 
+| Majara (Freestyle) | Single | CL40 World | WR Beats | UnitedMasters | Chico Loco 40 | Samir Libari | CL40 World & WR Beats |
+
 
 ### Release Details (UPC & Catalog)
 
 | Title | UPC | Catalog | Artist | Release Date | Format |
-|---|---|---|---|---:|---|
+|---|---:|---|---|---:|---|
 | EURO STREET FILES | 199891793891 | CAT1682188 | Chico Loco 40 | 2026-04-10 | Album |
 | Majara (Freestyle) | 199502870850 | CAT1535965 | Chico Loco 40 | 2025-11-09 | Single (Freestyle) |
+
+
+### EURO STREET FILES — Tracklist (27)
+
+| # | Track Title | ISRC |
+|---:|---|---|
+| 1 | QUARANTA-FOUR-ZERO | USLZJ2612703 |
+| 2 | Insidious 2010 | USLZJ2613080 |
+| 3 | Dark Street | USLZJ2612704 |
+| 4 | Aggressive Bounce | USLZJ2612708 |
+| 5 | Brutal | USLZJ2612710 |
+| 6 | Italian Vibe | USLZJ2612711 |
+| 7 | Piano Minimal | USLZJ2612713 |
+| 8 | No Love | USLZJ2613030 |
+| 9 | Dark Synth | USLZJ2607531 |
+| 10 | Metaphor Minimal | USLZJ2607535 |
+| 11 | Street Orchestra | USLZJ2607538 |
+| 12 | Street 40 | USLZJ2613027 |
+| 13 | Aggressive Bounce ll | USLZJ2607650 |
+| 14 | Dark Warzone | USLZJ2607652 |
+| 15 | Dark Warzone ll | USLZJ2607655 |
+| 16 | Street Flow | USLZJ2607659 |
+| 17 | Street Orchestra ll | USLZJ2607661 |
+| 18 | Street History | USLZJ2607666 |
+| 19 | Cinematic Pressure | USLZJ2612706 |
+| 20 | Street Latino | USLZJ2607739 |
+| 21 | Drill Minimal | USLZJ2607744 |
+| 22 | Euro Warzone | USLZJ2608487 |
+| 23 | Street Files | USLZJ2607777 |
+| 24 | Power | USLZJ2608428 |
+| 25 | Legend VII | USLZJ2608431 |
+| 26 | Dystopian | USLZJ2613087 |
+| 27 | Iron Grip | USLZJ2608452 |
+
+Primary Artist: Chico Loco 40  
+Composer: Samir Libari
+
+Majara (Freestyle) — ISRC: QZZ8B2565260
 
 ---
 
