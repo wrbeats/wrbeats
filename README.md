@@ -119,8 +119,8 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 | Title | Format | Label | Distribution |
 |---|---|---|---|
-| LA CALLE NO CALLA II | Studio Album | CL40 World | UnitedMasters |
-| URBANA LEYENDA | Studio EP | CL40 World | UnitedMasters |
+| LA CALLE NO CALLA II | Album | CL40 World | UnitedMasters |
+| URBANA LEYENDA | EP | CL40 World | UnitedMasters |
 | Luz y Sombra | EP | CL40 World | UnitedMasters |
 | Eye For An Eye | Single | CL40 World | UnitedMasters |
 | DECODING THE SYSTEM | Single | CL40 World | UnitedMasters |
