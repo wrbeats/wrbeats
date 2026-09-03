@@ -73,7 +73,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 |--------|-------|
 | **Total Global Reach** | +134 Billion Impressions |
 | **Annual Velocity** | 50 Billion Impressions/Year |
-| **Countries Covered** | +170 Countries |
+| **Countries Covered** | +210 Countries |
 | **Playlist Reach** | +180k Listeners |
 | **Artist Rank Global** | #1,25M+ |
 | **Active Years** | 2014–Present |
@@ -104,7 +104,7 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 - **Founded:** April 21, 2014
 - **Publisher:** ASCAP (American Society of Composers, Authors and Publishers)
 - **B2C Platform:** UnitedMasters
-- **Distribution:** Global (170+ Countries)
+- **Distribution:** Global (210+ Countries)
 
 ### Core Operations
 ✅ Music Production & Engineering (WR Beats)  
@@ -210,7 +210,7 @@ This project honors the legacy of **M'Hamed Hamed Libari**, whose identity and f
 CL40 World and WR Beats operate with a commitment to:
 - 🎨 **Artistic Integrity:** Maintaining full creative authority
 - 📖 **Historical Documentation:** Preserving family legacy and truth
-- 🌍 **Global Reach:** Serving 170+ countries
+- 🌍 **Global Reach:** Serving 210+ countries
 - 🤝 **Community:** Building a culture of respect and dignity
 - ⚖️ **Justice:** Supporting human rights and freedom of expression
 
