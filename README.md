@@ -134,43 +134,45 @@ Chico Loco 40's sound is a **dark cinematic fusion** blending:
 
 ### Release Details (UPC & Catalog)
 
-| Title | UPC | Catalog | Artist | Release Date | Format |
-|---|---:|---|---|---:|---|
-| EURO STREET FILES | 199891793891 | CAT1682188 | Chico Loco 40 | 2026-04-10 | Album |
-| Majara (Freestyle) | 199502870850 | CAT1535965 | Chico Loco 40 | 2025-11-09 | Single (Freestyle) |
+| Title | UPC | Catalog | Artist | Release Date | Format | Status | Genre | Duration | Price |
+|---|---:|---|---|---:|---|---|---|---:|---:|
+| EURO STREET FILES | 199891793891 | CAT1682188 | Chico Loco 40 | 2026-06-03 | Album | Taken down | Hip-Hop/Rap | 1:10:13 | $10.99 |
+| Majara (Freestyle) | 199502870850 | CAT1535965 | Chico Loco 40 | 2025-11-09 | Single (Freestyle) | — | — | — | — |
 
 
-### EURO STREET FILES — Tracklist (27)
+### EURO STREET FILES — Full Tracklist (27)
 
-| # | Track Title | ISRC |
-|---:|---|---|
-| 1 | QUARANTA-FOUR-ZERO | USLZJ2612703 |
-| 2 | Insidious 2010 | USLZJ2613080 |
-| 3 | Dark Street | USLZJ2612704 |
-| 4 | Aggressive Bounce | USLZJ2612708 |
-| 5 | Brutal | USLZJ2612710 |
-| 6 | Italian Vibe | USLZJ2612711 |
-| 7 | Piano Minimal | USLZJ2612713 |
-| 8 | No Love | USLZJ2613030 |
-| 9 | Dark Synth | USLZJ2607531 |
-| 10 | Metaphor Minimal | USLZJ2607535 |
-| 11 | Street Orchestra | USLZJ2607538 |
-| 12 | Street 40 | USLZJ2613027 |
-| 13 | Aggressive Bounce ll | USLZJ2607650 |
-| 14 | Dark Warzone | USLZJ2607652 |
-| 15 | Dark Warzone ll | USLZJ2607655 |
-| 16 | Street Flow | USLZJ2607659 |
-| 17 | Street Orchestra ll | USLZJ2607661 |
-| 18 | Street History | USLZJ2607666 |
-| 19 | Cinematic Pressure | USLZJ2612706 |
-| 20 | Street Latino | USLZJ2607739 |
-| 21 | Drill Minimal | USLZJ2607744 |
-| 22 | Euro Warzone | USLZJ2608487 |
-| 23 | Street Files | USLZJ2607777 |
-| 24 | Power | USLZJ2608428 |
-| 25 | Legend VII | USLZJ2608431 |
-| 26 | Dystopian | USLZJ2613087 |
-| 27 | Iron Grip | USLZJ2608452 |
+UPC: 199891793891 • Catalog: CAT1682188 • Label: CL40 World
+
+| # | Track Title | Artists | Writers | Length | ISRC |
+|---:|---|---|---|---:|---|
+| 1 | QUARANTA-FOUR-ZERO | Chico Loco 40 | Samir Libari | 2:29 | USLZJ2612703 |
+| 2 | Insidious 2010 | Chico Loco 40 | Samir Libari | 2:22 | USLZJ2613080 |
+| 3 | Dark Street | Chico Loco 40 | Samir Libari | 2:21 | USLZJ2612704 |
+| 4 | Aggressive Bounce | Chico Loco 40 | Samir Libari | 3:14 | USLZJ2612708 |
+| 5 | Brutal | Chico Loco 40 | Samir Libari | 2:45 | USLZJ2612710 |
+| 6 | Italian Vibe | Chico Loco 40 | Samir Libari | 2:36 | USLZJ2612711 |
+| 7 | Piano Minimal | Chico Loco 40 | Samir Libari | 2:30 | USLZJ2612713 |
+| 8 | No Love | Chico Loco 40 | Samir Libari | 2:26 | USLZJ2613030 |
+| 9 | Dark Synth | Chico Loco 40 | Samir Libari | 3:36 | USLZJ2607531 |
+| 10 | Metaphor Minimal | Chico Loco 40 | Samir Libari | 3:05 | USLZJ2607535 |
+| 11 | Street Orchestra | Chico Loco 40 | Samir Libari | 2:31 | USLZJ2607538 |
+| 12 | Street 40 | Chico Loco 40 | Samir Libari | 2:21 | USLZJ2613027 |
+| 13 | Aggressive Bounce II | Chico Loco 40 | Samir Libari | 2:58 | USLZJ2607650 |
+| 14 | Dark Warzone | Chico Loco 40 | Samir Libari | 2:47 | USLZJ2607652 |
+| 15 | Dark Warzone II | Chico Loco 40 | Samir Libari | 2:24 | USLZJ2607655 |
+| 16 | Street Flow | Chico Loco 40 | Samir Libari | 2:25 | USLZJ2607659 |
+| 17 | Street Orchestra II | Chico Loco 40 | Samir Libari | 2:25 | USLZJ2607661 |
+| 18 | Street History | Chico Loco 40 | Samir Libari | 2:24 | USLZJ2607666 |
+| 19 | Cinematic Pressure | Chico Loco 40 | Samir Libari | 2:58 | USLZJ2612706 |
+| 20 | Street Latino | Chico Loco 40 | Samir Libari | 2:42 | USLZJ2607739 |
+| 21 | Drill Minimal | Chico Loco 40 | Samir Libari | 2:29 | USLZJ2607744 |
+| 22 | Euro Warzone | Chico Loco 40 | Samir Libari | 2:26 | USLZJ2608487 |
+| 23 | Street Files | Chico Loco 40 | Samir Libari | 2:16 | USLZJ2607777 |
+| 24 | Power | Chico Loco 40 | Samir Libari | 2:18 | USLZJ2608428 |
+| 25 | Legend VII | Chico Loco 40 | Samir Libari | 2:22 | USLZJ2608431 |
+| 26 | Dystopian | Chico Loco 40 | Samir Libari | 2:34 | USLZJ2613087 |
+| 27 | Iron Grip | Chico Loco 40 | Samir Libari | 2:15 | USLZJ2608452 |
 
 Primary Artist: Chico Loco 40  
 Composer: Samir Libari
