@@ -16,15 +16,6 @@ Note: If the image files are not yet in the repository the links will appear bro
 | ![No Soy Un Ladrón](<img width="1024" height="1024" alt="artwork_no_soy_un_ladron_pro" src="https://github.com/user-attachments/assets/188e3b68-a31f-486c-98c5-2b8385929581" />) | No Soy Un Ladrón | Masked person beside a motorcycle in an industrial lot at dusk, covering their face; teal and amber palette. |
 | ![INSTRUMENTALS](<img width="1024" height="1024" alt="art_instyrumentals_cl40_prov2" src="https://github.com/user-attachments/assets/397a3a43-db91-41ac-8a8e-364dbfff2f04" />) | INSTRUMENTALS | Dark, cinematic instrumental cover: masked figure exhaling smoke beside a motorcycle; centered title 'INSTRUMENTALS'. |
 
-### File paths (what will be committed)
-- /assets/releases/INSTRUMENTALS/calle_oscura.jpg
-- /assets/releases/INSTRUMENTALS/cara_tapada.jpg
-- /assets/releases/INSTRUMENTALS/liberi_tutti.jpg
-- /assets/releases/INSTRUMENTALS/no_soy_un_ladron.jpg
-- /assets/releases/INSTRUMENTALS/instrumentals.jpg
-
-If you want I can: generate store/social sizes (3000x3000, 1400x1400, 1080x1080, 1200x628, 1600x900) and commit them as well — say “generate sizes” and I’ll add them.
-
 ---
 
 # 🌍 International — CL40 World & WR Beats
@@ -39,7 +30,7 @@ If you want I can: generate store/social sizes (3000x3000, 1400x1400, 1080x1080,
 - **Annual Velocity:** 100 Billion Impressions / Year
 - **Countries Covered:** +210
 - **Playlist Reach:** +180k Listeners
-- **Artist Rank Global:** #1,250,000+
+- **Artist Rank Global:** #1,25M
 
 </td>
     <td valign="top">
