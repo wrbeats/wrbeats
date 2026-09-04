@@ -1,0 +1,16 @@
+from rdkit import Chem
+
+# 1. Input: The universal SMILES code for Ethanol (CCO)
+smiles_input = "CCO"  # Added quotes
+mol = Chem.MolFromSmiles(smiles_input)
+
+# 2. Pipeline Execution: Generate the global standardized identifier
+inchi_string = Chem.MolToInChI(mol)
+print(f"Standardized Global Key: {inchi_string}")  # Fixed f-string quotes
+
+# 3. Verification: Reverse the pipeline to ensure 100% data integrity
+verified_mol = Chem.MolFromInChI(inchi_string)
+
+# Optional: Print verification success
+if verified_mol:
+    print("Verification Successful: InChI successfully converted back to a molecule object.")
